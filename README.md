@@ -11,13 +11,13 @@ First, clone the repository to your local machine using Git:
 
 ### 2. Create Python Virtual Environment
 
-# Using Terminal:
+#### Using Terminal:
   Create the virtual environment:
       python3 -m venv env
   Activate the virtual environment:
       source env/bin/activate
         
-# Using VS Code Command Palette:
+##### Using VS Code Command Palette:
 
   Open the Command Palette with Ctrl + Shift + P.
     Search for Python: Create Environment.
