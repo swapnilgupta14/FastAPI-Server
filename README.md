@@ -10,10 +10,9 @@ dw
 
 First, clone the repository to your local machine using Git:
 
-
 ### 2. Create Python Virtual Environment
 
-#### Using Terminal:
+#### Using Terminal
   Create the virtual environment:
       python3 -m venv env
   Activate the virtual environment:
@@ -35,3 +34,13 @@ First, clone the repository to your local machine using Git:
 
 To run the FastAPI server, use the following command:
   uvicorn main:app --reload
+
+### 5. The server will be running at
+
+http://127.0.0.1:8000/docs#/default
+
+# generate - requiremenrs.txt
+
+```bash
+pip freeze > requirements.txt
+```
