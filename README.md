@@ -1,4 +1,4 @@
-# FastAPI Server
+# Final Year Project FastAPI Server
 
 This repository contains the code for a FastAPI server. Follow the instructions below to set up the development environment.
 
@@ -37,10 +37,11 @@ First, clone the repository to your local machine using Git
   make sure you are in the current directory where requirements.txt is present in the application
 ### 4. Running the Server
 
-To run the FastAPI server, use the following command:
-    ```
+To run the FastAPI server, use the following command
+
+ ```
   uvicorn main:app --reload
-    ```
+  ```
 ### 5. The server will be running at
 ```
 http://127.0.0.1:8000/docs#/default
