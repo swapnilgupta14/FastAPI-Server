@@ -19,10 +19,10 @@ First, clone the repository to your local machine using Git:
         
 ##### Using VS Code Command Palette:
 
-  Open the Command Palette with Ctrl + Shift + P.
-    Search for Python: Create Environment.
-    Select venv.
-    Select the Python interpreter you want to use.
+  1. Open the Command Palette with Ctrl + Shift + P.
+  2. Search for Python: Create Environment.
+  3. Select venv.
+  4. Select the Python interpreter you want to use.
 
 ### 3. Install Dependencies
 
