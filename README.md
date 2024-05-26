@@ -34,6 +34,7 @@ First, clone the repository to your local machine using Git
    ```
     pip install -r requirements.txt
    ```
+  make sure you are in the current directory where requirements.txt is present in the application
 ### 4. Running the Server
 
 To run the FastAPI server, use the following command:
