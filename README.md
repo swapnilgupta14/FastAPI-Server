@@ -9,6 +9,7 @@ dw
 ### 1. Clone the Repository
 
 First, clone the repository to your local machine using Git:
+  https://github.com/swapnilgupta14/FastAPI-Server.git
 
 ### 2. Create Python Virtual Environment
 
