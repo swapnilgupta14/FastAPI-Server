@@ -1,4 +1,4 @@
-# Final Year Project FastAPI Server
+# FastAPI Server with MySQL
 
 This repository contains the code for a FastAPI server. Follow the instructions below to set up the development environment.
 
