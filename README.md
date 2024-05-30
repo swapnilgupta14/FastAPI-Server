@@ -42,6 +42,17 @@ To run the FastAPI server, use the following command
  ```
   uvicorn main:app --reload
   ```
+
+Update the MySQL url in .env file
+
+ ```
+  DATABASE_URL = "mysql://root@localhost:3306/enter_db_name?charset=utf8mb4&user=root&password=enter_password_here"
+  ```
+where
+ ```
+  enter_db_name = your db name (default intallation of MySQL - root) && enter_password_here = your set password
+  ```
+
 ### 5. The server will be running at
 ```
 http://127.0.0.1:8000/docs#/default
