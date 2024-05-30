@@ -37,13 +37,7 @@ First, clone the repository to your local machine using Git
   make sure you are in the current directory where requirements.txt is present in the application
 ### 4. Running the Server
 
-To run the FastAPI server, use the following command
-
- ```
-  uvicorn main:app --reload
-  ```
-
-Update the MySQL url in .env file
+##### Important! Update the MySQL url in .env file
 
  ```
   DATABASE_URL = "mysql://root@localhost:3306/enter_db_name?charset=utf8mb4&user=root&password=enter_password_here"
@@ -51,6 +45,11 @@ Update the MySQL url in .env file
 where
  ```
   enter_db_name = your db name (default intallation of MySQL - root) && enter_password_here = your set password
+  ```
+Now To run the FastAPI server, use the following command
+
+ ```
+  uvicorn main:app --reload
   ```
 
 ### 5. The server will be running at
