@@ -56,7 +56,9 @@ Now To run the FastAPI server, use the following command
 ```
 http://127.0.0.1:8000/docs#/default
 ```
-#### Note : To generate - requiremenrs.txt
+##### Note : To generate - requiremenrs.txt
 ```bash
 pip freeze > requirements.txt
 ```
+
+##### Any Queries - <p> <a href="mailto:mail.swapnilgupta@gmail.com">Mail Me</a> </p>
