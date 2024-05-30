@@ -61,4 +61,4 @@ http://127.0.0.1:8000/docs#/default
 pip freeze > requirements.txt
 ```
 
-##### Any Queries - <p> <a href="mailto:mail.swapnilgupta@gmail.com">Mail Me</a> </p>
+##### Any Queries - <a href="mailto:mail.swapnilgupta@gmail.com">Swapnil Gupta</a>
